@@ -1,4 +1,4 @@
-package Lesson2;
+package lesson2;
 
 public class Tshirt extends Clothes implements ClothesMen, ClothesWomen {
 

@@ -1,5 +1,6 @@
-package Lesson1;
+package lesson1;
 import java.util.ArrayList;
+
 public class Book implements Printable {
 
     private String nameBook;

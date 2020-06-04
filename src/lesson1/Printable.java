@@ -1,5 +1,5 @@
 
-package Lesson1;
+package lesson1;
 public interface Printable {
-  void print ();
+  void print();
   }
